@@ -1,7 +1,7 @@
 {
   "name": "Descarga Cuentas Tributarias",
   "description": "Descarga Cuentas Tributarias en formato Excel desde AFIP",
-  "main": "Descarga_CT.xaml",
+  "main": "Descarga_CT Sin Simulate Type.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.0]",
@@ -48,8 +48,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Descarga_CT.xaml",
-      "uniqueId": "3d4f73b3-dc93-4b41-a1ec-684f6557f84a",
+      "filePath": "Descarga_CT Sin Simulate Type.xaml",
+      "uniqueId": "572a815e-6f26-41db-ba32-07d03971fbcd",
       "input": [],
       "output": []
     }
