@@ -23,9 +23,9 @@ Particularidades del BOT:
 
     ֎ En caso que no se guarden los Archivos con el nombre solicitado se debe ejecutar el bot que contiene en su nombre "sin ST"
 
-    ֎ Las ubicaciones del Excel deben ir desde el Disco hasta la Ubicación completa con un backslash final (ejemplo: "C:\Users\Agustin Bustos\Desktop\TEST\")
+    ֎ Las ubicaciones del Excel deben ir desde el Disco hasta la Ubicación completa con un backslash final (ejemplo: 'C:\Users\Agustin Bustos\Desktop\TEST\')
 
-        ֎ Los de la ventana emergente inicial van sin el último backslash (ejemplo: "C:\Users\Agustin Bustos\Desktop\Test") y es importante que esa ubicación exista. Esta ubicación se utiliza solamente cuando la direccion de descarga del Excel esta vacío
+        ֎ Los de la ventana emergente inicial van sin el último backslash (ejemplo: 'C:\Users\Agustin Bustos\Desktop\Test') y es importante que esa ubicación exista. Esta ubicación se utiliza solamente cuando la direccion de descarga del Excel esta vacío
 
 
 Obviamente no me hago cargo del uso indebido del bot (ej si haces cagada y si te llegan a bloquear tu CUIT porque detecten que usas un bot (salió en una RG que prohibe el inicio automatico con bots con la consecuencia de bloquear el CUIT))
@@ -50,7 +50,10 @@ Cualquier cosa pueden contactarme en:
 
 <!-- [![Cafecito](https://img.shields.io/badge/-Cafecito-9cf?style=for-the-badge)](https://cafecito.app/abustos) -->
 
-[<img src="https://santanderpost.com.ar/wp-content/uploads/2022/02/Cafecito-.jpg" alt="Image" height="30" width="65\">](https://cafecito.app/abustos)
+<!--[<img src="https://santanderpost.com.ar/wp-content/uploads/2022/02/Cafecito-.jpg" alt="Image" height="30" width="65\">](https://cafecito.app/abustos) -->
+
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/abustos)
+
 
 <br/>
  
