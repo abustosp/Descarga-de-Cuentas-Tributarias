@@ -1,5 +1,6 @@
 {
   "name": "Descarga Cuentas Tributarias",
+  "projectId": "81833060-6795-42f8-ae41-c7985e7fa5ec",
   "description": "Descarga Cuentas Tributarias en formato Excel desde AFIP",
   "main": "Descarga_CT Sin Simulate Type.xaml",
   "dependencies": {
