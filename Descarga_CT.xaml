@@ -353,7 +353,7 @@
                                   <Delay Duration="00:00:01" sap:VirtualizedContainerService.HintSize="698,90" sap2010:WorkflowViewState.IdRef="Delay_55" />
                                   <ui:UiElementExists DisplayName="Existencia de Mis servicios" Exists="[MisServicios]" sap:VirtualizedContainerService.HintSize="698,107" sap2010:WorkflowViewState.IdRef="UiElementExists_1">
                                     <ui:UiElementExists.Target>
-                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7054df97-5e5a-4c13-884b-a0e83e007093" InformativeScreenshot="eb5b833e7ef1a21fb8f83e444964c491" Selector="&lt;html app='firefox.exe' title='Portal de Clave Fiscal' /&gt;&lt;webctrl aaname='Ver todos' omit:parentid='serviciosMasUtilizados' /&gt;" TimeoutMS="3000" WaitForReady="COMPLETE" />
+                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7054df97-5e5a-4c13-884b-a0e83e007093" InformativeScreenshot="eb5b833e7ef1a21fb8f83e444964c491" Selector="&lt;html app='firefox.exe' title='*Clave F?scal*' /&gt;&lt;webctrl aaname='Ver todos' omit:parentid='serviciosMasUtilizados' /&gt;" TimeoutMS="3000" WaitForReady="COMPLETE" />
                                     </ui:UiElementExists.Target>
                                     <sap:WorkflowViewStateService.ViewState>
                                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -399,7 +399,7 @@
                                               </ui:CursorPosition>
                                             </ui:Click.CursorPosition>
                                             <ui:Click.Target>
-                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="d4b783f3-6c9d-4f2a-961d-4eea27185e16" InformativeScreenshot="9775e3600bb3a8916a79f0224b06e432" Selector="&lt;html app='firefox.exe' title='Portal de Clave Fiscal' /&gt;&lt;webctrl aaname='Ver todos' omit:parentid='serviciosMasUtilizados' /&gt;">
+                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="d4b783f3-6c9d-4f2a-961d-4eea27185e16" InformativeScreenshot="9775e3600bb3a8916a79f0224b06e432" Selector="&lt;html app='firefox.exe' title='*Clave F?scal*' /&gt;&lt;webctrl aaname='Ver todos' omit:parentid='serviciosMasUtilizados' /&gt;">
                                                 <ui:Target.TimeoutMS>
                                                   <InArgument x:TypeArguments="x:Int32" />
                                                 </ui:Target.TimeoutMS>
@@ -421,7 +421,7 @@
                                               </ui:CursorPosition>
                                             </ui:Click.CursorPosition>
                                             <ui:Click.Target>
-                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="30e963d6-7630-4363-8b50-1c63437891fc" InformativeScreenshot="f5a62ad980dd78f1224a986cede2c1ea" Selector="&lt;html app='firefox.exe' title='Portal de Clave Fiscal' /&gt;&lt;webctrl aaname='SISTEMA DE CUENTAS TRIBUTARIAS' /&gt;">
+                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="30e963d6-7630-4363-8b50-1c63437891fc" InformativeScreenshot="f5a62ad980dd78f1224a986cede2c1ea" Selector="&lt;html app='firefox.exe' title='*Clave F?scal*' /&gt;&lt;webctrl aaname='SISTEMA DE CUENTAS TRIBUTARIAS' /&gt;">
                                                 <ui:Target.TimeoutMS>
                                                   <InArgument x:TypeArguments="x:Int32" />
                                                 </ui:Target.TimeoutMS>
@@ -704,7 +704,7 @@
                                                     <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                                   </scg:Dictionary>
                                                 </sap:WorkflowViewStateService.ViewState>
-                                                <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Selecionar página principal de AFIP" sap:VirtualizedContainerService.HintSize="484,512" sap2010:WorkflowViewState.IdRef="BrowserScope_15" InformativeScreenshot="cb4e29c785dd6c0a78adb6be515e6b01" Selector="&lt;html app='firefox.exe' title='Portal de Clave Fiscal' /&gt;">
+                                                <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Selecionar página principal de AFIP" sap:VirtualizedContainerService.HintSize="484,512" sap2010:WorkflowViewState.IdRef="BrowserScope_15" InformativeScreenshot="cb4e29c785dd6c0a78adb6be515e6b01" Selector="&lt;html app='firefox.exe' title='*Clave F?scal*' /&gt;">
                                                   <ui:BrowserScope.Body>
                                                     <ActivityAction x:TypeArguments="x:Object">
                                                       <ActivityAction.Argument>
