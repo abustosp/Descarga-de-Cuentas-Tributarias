@@ -468,7 +468,7 @@
                                                   </Sequence>
                                                 </If.Else>
                                               </If>
-                                              <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Excel" sap:VirtualizedContainerService.HintSize="435,107" sap2010:WorkflowViewState.IdRef="Click_137" KeyModifiers="None" MouseButton="BTN_LEFT">
+                                              <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="CSV" sap:VirtualizedContainerService.HintSize="435,107" sap2010:WorkflowViewState.IdRef="Click_137" KeyModifiers="None" MouseButton="BTN_LEFT">
                                                 <ui:Click.CursorPosition>
                                                   <ui:CursorPosition Position="Center">
                                                     <ui:CursorPosition.OffsetX>
@@ -480,7 +480,7 @@
                                                   </ui:CursorPosition>
                                                 </ui:Click.CursorPosition>
                                                 <ui:Click.Target>
-                                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="c81f59a1-9ae7-428e-b9ba-6b6a574f2b33" InformativeScreenshot="826a39c38bc1fb6280f351496960cf0a" Selector="&lt;webctrl aaname='Excel' tag='SPAN' /&gt;">
+                                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="c81f59a1-9ae7-428e-b9ba-6b6a574f2b33" InformativeScreenshot="826a39c38bc1fb6280f351496960cf0a" Selector="&lt;webctrl aaname='CSV' tag='SPAN' /&gt;">
                                                     <ui:Target.TimeoutMS>
                                                       <InArgument x:TypeArguments="x:Int32" />
                                                     </ui:Target.TimeoutMS>
